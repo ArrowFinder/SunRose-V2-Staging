@@ -1,15 +1,1 @@
-{
-  "id": "./",
-  "name": "Business Workspace",
-  "short_name": "Workspace",
-  "description": "Your tasks, clients, time and Source of Truth.",
-  "start_url": "./#/",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f6f8f7",
-  "theme_color": "#722b3a",
-  "icons": [
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
-  ]
-}
+{"id":"https://arrowfinder.github.io/SunRose-V2-Staging/","name":"SunRose Creative","short_name":"SunRose Creative","description":"Your tasks, clients, time and Source of Truth.","start_url":"https://arrowfinder.github.io/SunRose-V2-Staging/#/","scope":"https://arrowfinder.github.io/SunRose-V2-Staging/","display":"standalone","background_color":"#f6f8f7","theme_color":"#722b3a","icons":[{"src":"/SunRose-V2-Staging/icons/company-192-bb392c376af3aaffe6ea8db4d96b692f9854710ab0a6ca3765608e2369d85cc7-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"/SunRose-V2-Staging/icons/company-512-69897a2efd4cb15ec02cc3dcaa7bde3a5ad46c8e7ed7ecc2d6e57db8abdedce4-512.png","sizes":"512x512","type":"image/png","purpose":"any"}],"apple_touch_icon":"/SunRose-V2-Staging/icons/company-180-74d377deb89c787584715bf6b5ea2ded30767a7365965aaf8296e4bb58cac2ac-180.png"}
